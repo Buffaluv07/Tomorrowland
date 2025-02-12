@@ -8,6 +8,7 @@ export default defineConfig({
             input: {    
                 main: resolve(__dirname, 'index.html'),
                 Artists: resolve(__dirname, 'Artists/index.html')
+                Facts: resolve(__dirname, 'Facts/index.html')
             }
         }
     }
